@@ -1,0 +1,30 @@
+Linux Commands :
+
+1. pwd - print working directory
+2. cd - cd directory
+3. ls - list all directory
+4. mkdir - make a new folder
+5. touch a.txt - make a file a.txt
+6. cat a.txt - show the content of the file
+
+7. vi (Hard command not recommend to use) - 
+	ex : vi a.txt ==> open a editor 
+	     from here it is hard to exit
+	     
+	     So use ==> escape key + colon + q + exclamation + enter ==> :q! + enter
+	     
+	     then u exit the editor
+	     
+	     :wq! ==> save and exit the file
+	     
+8. mv - use to move a file/folder from current to 1 to another folder
+	mv file/folder_name file/folder_name_where to be moved
+	e.g. - mv a.txt new_folder ==> (move a.text to new_folder)
+	
+9. cp - use to copy a (file) to a folder
+	ex : cp a.txt b ==> copy a.txt to b folder
+	
+	cp -r a b ==> copy folder a to folder b
+	
+8. node - open a shell type environment to run js code
+
