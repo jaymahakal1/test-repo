@@ -28,3 +28,12 @@ Linux Commands :
 	
 8. node - open a shell type environment to run js code
 
+:::::::::::::::::::::::: GITHUB ::::::::::::::::::::::::
+
+if u get any error related to PAT 
+then set remote url 
+as ==> git remote set-url origin https://username:PAT@github.com/username/repo_name.git
+
+
+
+
